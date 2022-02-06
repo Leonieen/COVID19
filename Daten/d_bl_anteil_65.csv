@@ -1,0 +1,17 @@
+bundesland,Name,Anteil,Belegte_Intensivbetten,Freie_Intensivbetten,Verh_betten_belegt,Impfungen_gesamt_voll,Impfquote_60plus_voll,Impfquote_gesamt_boost,Impfquote_60plus_boost
+1,Schleswig-Holstein,23,523,120,81,2254775,92,54,79
+2,Hamburg,18,410,53,89,1453507,89,46,67
+3,Niedersachsen,22,1539,269,85,5964968,90,53,75
+4,Bremen,21,148,4,97,582384,96,54,79
+5,Nordrhein-Westfalen,21,4588,635,88,13638451,91,51,75
+6,Hessen,21,1600,199,89,4512254,86,46,67
+7,Rheinland-Pfalz,22,797,154,84,2963694,88,50,72
+8,Baden-W�rttemberg,21,1999,251,89,7933480,86,49,70
+9,Bayern,21,2781,382,88,9458915,86,47,71
+10,Saarland,24,344,57,86,779865,92,58,78
+11,Berlin,19,933,116,89,2711008,91,50,76
+12,Brandenburg,25,549,100,85,1682655,83,43,63
+13,Mecklenburg-Vorpommern,26,511,92,85,1154225,88,47,70
+14,Sachsen,27,1231,174,88,2516939,82,39,60
+15,Sachsen-Anhalt,27,630,76,89,1526468,87,43,66
+16,Th�ringen,27,552,84,87,1428393,85,43,65
