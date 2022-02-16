@@ -1,0 +1,402 @@
+A,Kreis,X,Anteil ueber 65-Jaehrigen
+1001,Flensburg, kreisfreie Stadt,20
+1002,Kiel, kreisfreie Stadt,19
+1003,L�beck, kreisfreie Stadt,23
+1004,Neum�nster, kreisfreie Stadt,23
+1051,Dithmarschen, Landkreis,25
+1053,Herzogtum Lauenburg, Landkreis,22
+1054,Nordfriesland, Landkreis,24
+1055,Ostholstein, Landkreis,28
+1056,Pinneberg, Landkreis,22
+1057,Pl�n, Landkreis,26
+1058,Rendsburg-Eckernf�rde, Landkreis,24
+1059,Schleswig-Flensburg, Landkreis,24
+1060,Segeberg, Landkreis,22
+1061,Steinburg, Landkreis,23
+1062,Stormarn, Landkreis,23
+2000,Hamburg, kreisfreie Stadt,18
+3101,Braunschweig, kreisfreie Stadt,21
+3102,Salzgitter, kreisfreie Stadt,23
+3103,Wolfsburg, kreisfreie Stadt,22
+3151,Gifhorn, Landkreis,20
+3153,Goslar, Landkreis,27
+3154,Helmstedt, Landkreis,24
+3155,Northeim, Landkreis,26
+3157,Peine, Landkreis,22
+3158,Wolfenb�ttel, Landkreis,24
+3159,G�ttingen, Landkreis,23
+3241,Region Hannover, Landkreis,21
+3251,Diepholz, Landkreis,23
+3252,Hameln-Pyrmont, Landkreis,25
+3254,Hildesheim, Landkreis,23
+3255,Holzminden, Landkreis,27
+3256,Nienburg (Weser), Landkreis,23
+3257,Schaumburg, Landkreis,25
+3351,Celle, Landkreis,24
+3352,Cuxhaven, Landkreis,26
+3353,Harburg, Landkreis,22
+3354,L�chow-Dannenberg, Landkreis,28
+3355,L�neburg, Landkreis,20
+3356,Osterholz, Landkreis,24
+3357,Rotenburg (W�mme), Landkreis,21
+3358,Heidekreis, Landkreis,23
+3359,Stade, Landkreis,22
+3360,Uelzen, Landkreis,26
+3361,Verden, Landkreis,23
+3401,Delmenhorst, kreisfreie Stadt,22
+3402,Emden, kreisfreie Stadt,22
+3403,Oldenburg (Oldenburg), kreisfreie Stadt,19
+3404,Osnabr�ck, kreisfreie Stadt,19
+3405,Wilhelmshaven, kreisfreie Stadt,26
+3451,Ammerland, Landkreis,23
+3452,Aurich, Landkreis,23
+3453,Cloppenburg, Landkreis,17
+3454,Emsland, Landkreis,19
+3455,Friesland, Landkreis,26
+3456,Grafschaft Bentheim, Landkreis,21
+3457,Leer, Landkreis,22
+3458,Oldenburg, Landkreis,22
+3459,Osnabr�ck, Landkreis,21
+3460,Vechta, Landkreis,16
+3461,Wesermarsch, Landkreis,24
+3462,Wittmund, Landkreis,25
+4011,Bremen, kreisfreie Stadt,21
+4012,Bremerhaven, kreisfreie Stadt,22
+5111,D�sseldorf, kreisfreie Stadt,19
+5112,Duisburg, kreisfreie Stadt,20
+5113,Essen, kreisfreie Stadt,22
+5114,Krefeld, kreisfreie Stadt,22
+5116,M�nchengladbach, kreisfreie Stadt,21
+5117,M�lheim an der Ruhr, kreisfreie Stadt,24
+5119,Oberhausen, kreisfreie Stadt,22
+5120,Remscheid, kreisfreie Stadt,22
+5122,Solingen, kreisfreie Stadt,21
+5124,Wuppertal, kreisfreie Stadt,21
+5154,Kleve, Landkreis,21
+5158,Mettmann, Landkreis,24
+5162,Rhein-Kreis Neuss, Landkreis,22
+5166,Viersen, Landkreis,22
+5170,Wesel, Landkreis,24
+5314,Bonn, kreisfreie Stadt,18
+5315,K�ln, kreisfreie Stadt,17
+5316,Leverkusen, kreisfreie Stadt,22
+5334,St�dteregion Aachen, Landkreis,20
+5358,D�ren, Landkreis,22
+5362,Rhein-Erft-Kreis, Landkreis,22
+5366,Euskirchen, Landkreis,22
+5370,Heinsberg, Landkreis,21
+5374,Oberbergischer Kreis, Landkreis,21
+5378,Rheinisch-Bergischer Kreis, Landkreis,23
+5382,Rhein-Sieg-Kreis, Landkreis,22
+5512,Bottrop, kreisfreie Stadt,23
+5513,Gelsenkirchen, kreisfreie Stadt,21
+5515,M�nster, kreisfreie Stadt,17
+5554,Borken, Landkreis,19
+5558,Coesfeld, Landkreis,21
+5562,Recklinghausen, Landkreis,23
+5566,Steinfurt, Landkreis,20
+5570,Warendorf, Landkreis,21
+5711,Bielefeld, kreisfreie Stadt,20
+5754,G�tersloh, Landkreis,20
+5758,Herford, Landkreis,22
+5762,H�xter, Landkreis,23
+5766,Lippe, Landkreis,23
+5770,Minden-L�bbecke, Landkreis,22
+5774,Paderborn, Landkreis,18
+5911,Bochum, kreisfreie Stadt,22
+5913,Dortmund, kreisfreie Stadt,21
+5914,Hagen, kreisfreie Stadt,22
+5915,Hamm, kreisfreie Stadt,21
+5916,Herne, kreisfreie Stadt,22
+5954,Ennepe-Ruhr-Kreis, Landkreis,24
+5958,Hochsauerlandkreis, Landkreis,22
+5962,M�rkischer Kreis, Landkreis,22
+5966,Olpe, Landkreis,21
+5970,Siegen-Wittgenstein, Landkreis,22
+5974,Soest, Landkreis,22
+5978,Unna, Landkreis,23
+6411,Darmstadt, kreisfreie Stadt,17
+6412,Frankfurt am Main, kreisfreie Stadt,16
+6413,Offenbach am Main, kreisfreie Stadt,16
+6414,Wiesbaden, kreisfreie Stadt,20
+6431,Bergstra�e, Landkreis,22
+6432,Darmstadt-Dieburg, Landkreis,21
+6433,Gro�-Gerau, Landkreis,19
+6434,Hochtaunuskreis, Landkreis,23
+6435,Main-Kinzig-Kreis, Landkreis,22
+6436,Main-Taunus-Kreis, Landkreis,21
+6437,Odenwaldkreis, Landkreis,24
+6438,Offenbach, Landkreis,21
+6439,Rheingau-Taunus-Kreis, Landkreis,23
+6440,Wetteraukreis, Landkreis,21
+6531,Gie�en, Landkreis,20
+6532,Lahn-Dill-Kreis, Landkreis,22
+6533,Limburg-Weilburg, Landkreis,22
+6534,Marburg-Biedenkopf, Landkreis,20
+6535,Vogelsbergkreis, Landkreis,25
+6611,Kassel, kreisfreie Stadt,20
+6631,Fulda, Landkreis,21
+6632,Hersfeld-Rotenburg, Landkreis,24
+6633,Kassel, Landkreis,25
+6634,Schwalm-Eder-Kreis, Landkreis,24
+6635,Waldeck-Frankenberg, Landkreis,23
+6636,Werra-Mei�ner-Kreis, Landkreis,26
+7111,Koblenz, kreisfreie Stadt,22
+7131,Ahrweiler, Landkreis,25
+7132,Altenkirchen (Westerwald), Landkreis,23
+7133,Bad Kreuznach, Landkreis,24
+7134,Birkenfeld, Landkreis,24
+7135,Cochem-Zell, Landkreis,25
+7137,Mayen-Koblenz, Landkreis,22
+7138,Neuwied, Landkreis,22
+7140,Rhein-Hunsr�ck-Kreis, Landkreis,23
+7141,Rhein-Lahn-Kreis, Landkreis,24
+7143,Westerwaldkreis, Landkreis,21
+7211,Trier, kreisfreie Stadt,18
+7231,Bernkastel-Wittlich, Landkreis,23
+7232,Eifelkreis Bitburg-Pr�m, Landkreis,21
+7233,Vulkaneifel, Landkreis,25
+7235,Trier-Saarburg, Landkreis,21
+7311,Frankenthal (Pfalz), kreisfreie Stadt,23
+7312,Kaiserslautern, kreisfreie Stadt,20
+7313,Landau in der Pfalz, kreisfreie Stadt,19
+7314,Ludwigshafen am Rhein, kreisfreie Stadt,19
+7315,Mainz, kreisfreie Stadt,18
+7316,Neustadt an der Weinstra�e, kreisfreie Stadt,25
+7317,Pirmasens, kreisfreie Stadt,26
+7318,Speyer, kreisfreie Stadt,23
+7319,Worms, kreisfreie Stadt,21
+7320,Zweibr�cken, kreisfreie Stadt,23
+7331,Alzey-Worms, Landkreis,20
+7332,Bad D�rkheim, Landkreis,24
+7333,Donnersbergkreis, Landkreis,22
+7334,Germersheim, Landkreis,20
+7335,Kaiserslautern, Landkreis,22
+7336,Kusel, Landkreis,24
+7337,S�dliche Weinstra�e, Landkreis,24
+7338,Rhein-Pfalz-Kreis, Landkreis,23
+7339,Mainz-Bingen, Landkreis,21
+7340,S�dwestpfalz, Landkreis,26
+8111,Stuttgart, kreisfreie Stadt,18
+8115,B�blingen, Landkreis,20
+8116,Esslingen, Landkreis,21
+8117,G�ppingen, Landkreis,22
+8118,Ludwigsburg, Landkreis,20
+8119,Rems-Murr-Kreis, Landkreis,21
+8121,Heilbronn, kreisfreie Stadt,19
+8125,Heilbronn, Landkreis,19
+8126,Hohenlohekreis, Landkreis,20
+8127,Schw�bisch Hall, Landkreis,20
+8128,Main-Tauber-Kreis, Landkreis,23
+8135,Heidenheim, Landkreis,22
+8136,Ostalbkreis, Landkreis,21
+8211,Baden-Baden, kreisfreie Stadt,26
+8212,Karlsruhe, kreisfreie Stadt,19
+8215,Karlsruhe, Landkreis,21
+8216,Rastatt, Landkreis,22
+8221,Heidelberg, kreisfreie Stadt,17
+8222,Mannheim, kreisfreie Stadt,18
+8225,Neckar-Odenwald-Kreis, Landkreis,22
+8226,Rhein-Neckar-Kreis, Landkreis,22
+8231,Pforzheim, kreisfreie Stadt,20
+8235,Calw, Landkreis,21
+8236,Enzkreis, Landkreis,21
+8237,Freudenstadt, Landkreis,21
+8311,Freiburg im Breisgau, kreisfreie Stadt,17
+8315,Breisgau-Hochschwarzwald, Landkreis,22
+8316,Emmendingen, Landkreis,21
+8317,Ortenaukreis, Landkreis,21
+8325,Rottweil, Landkreis,21
+8326,Schwarzwald-Baar-Kreis, Landkreis,22
+8327,Tuttlingen, Landkreis,20
+8335,Konstanz, Landkreis,21
+8336,L�rrach, Landkreis,21
+8337,Waldshut, Landkreis,21
+8415,Reutlingen, Landkreis,21
+8416,T�bingen, Landkreis,18
+8417,Zollernalbkreis, Landkreis,22
+8421,Ulm, kreisfreie Stadt,18
+8425,Alb-Donau-Kreis, Landkreis,19
+8426,Biberach, Landkreis,19
+8435,Bodenseekreis, Landkreis,23
+8436,Ravensburg, Landkreis,20
+8437,Sigmaringen, Landkreis,21
+9161,Ingolstadt, kreisfreie Stadt,18
+9162,M�nchen, kreisfreie Stadt,17
+9163,Rosenheim, kreisfreie Stadt,20
+9171,Alt�tting, Landkreis,22
+9172,Berchtesgadener Land, Landkreis,24
+9173,Bad T�lz-Wolfratshausen, Landkreis,22
+9174,Dachau, Landkreis,19
+9175,Ebersberg, Landkreis,19
+9176,Eichst�tt, Landkreis,18
+9177,Erding, Landkreis,17
+9178,Freising, Landkreis,16
+9179,F�rstenfeldbruck, Landkreis,22
+9180,Garmisch-Partenkirchen, Landkreis,25
+9181,Landsberg am Lech, Landkreis,20
+9182,Miesbach, Landkreis,23
+9183,M�hldorf am Inn, Landkreis,20
+9184,M�nchen, Landkreis,20
+9185,Neuburg-Schrobenhausen, Landkreis,19
+9186,Pfaffenhofen an der Ilm, Landkreis,18
+9187,Rosenheim, Landkreis,22
+9188,Starnberg, Landkreis,23
+9189,Traunstein, Landkreis,23
+9190,Weilheim-Schongau, Landkreis,22
+9261,Landshut, kreisfreie Stadt,20
+9262,Passau, kreisfreie Stadt,21
+9263,Straubing, kreisfreie Stadt,22
+9271,Deggendorf, Landkreis,21
+9272,Freyung-Grafenau, Landkreis,22
+9273,Kelheim, Landkreis,19
+9274,Landshut, Landkreis,19
+9275,Passau, Landkreis,22
+9276,Regen, Landkreis,23
+9277,Rottal-Inn, Landkreis,22
+9278,Straubing-Bogen, Landkreis,20
+9279,Dingolfing-Landau, Landkreis,19
+9361,Amberg, kreisfreie Stadt,24
+9362,Regensburg, kreisfreie Stadt,17
+9363,Weiden in der Oberpfalz, kreisfreie Stadt,23
+9371,Amberg-Sulzbach, Landkreis,21
+9372,Cham, Landkreis,22
+9373,Neumarkt in der Oberpfalz, Landkreis,19
+9374,Neustadt an der Waldnaab, Landkreis,21
+9375,Regensburg, Landkreis,20
+9376,Schwandorf, Landkreis,21
+9377,Tirschenreuth, Landkreis,23
+9461,Bamberg, kreisfreie Stadt,19
+9462,Bayreuth, kreisfreie Stadt,22
+9463,Coburg, kreisfreie Stadt,24
+9464,Hof, kreisfreie Stadt,24
+9471,Bamberg, Landkreis,19
+9472,Bayreuth, Landkreis,23
+9473,Coburg, Landkreis,23
+9474,Forchheim, Landkreis,21
+9475,Hof, Landkreis,26
+9476,Kronach, Landkreis,25
+9477,Kulmbach, Landkreis,24
+9478,Lichtenfels, Landkreis,23
+9479,Wunsiedel im Fichtelgebirge, Landkreis,26
+9561,Ansbach, kreisfreie Stadt,21
+9562,Erlangen, kreisfreie Stadt,18
+9563,F�rth, kreisfreie Stadt,18
+9564,N�rnberg, kreisfreie Stadt,20
+9565,Schwabach, kreisfreie Stadt,22
+9571,Ansbach, Landkreis,20
+9572,Erlangen-H�chstadt, Landkreis,21
+9573,F�rth, Landkreis,23
+9574,N�rnberger Land, Landkreis,22
+9575,Neustadt an der Aisch-Bad Windsheim, Landkreis,21
+9576,Roth, Landkreis,21
+9577,Wei�enburg-Gunzenhausen, Landkreis,22
+9661,Aschaffenburg, kreisfreie Stadt,21
+9662,Schweinfurt, kreisfreie Stadt,24
+9663,W�rzburg, kreisfreie Stadt,20
+9671,Aschaffenburg, Landkreis,22
+9672,Bad Kissingen, Landkreis,25
+9673,Rh�n-Grabfeld, Landkreis,23
+9674,Ha�berge, Landkreis,21
+9675,Kitzingen, Landkreis,21
+9676,Miltenberg, Landkreis,22
+9677,Main-Spessart, Landkreis,23
+9678,Schweinfurt, Landkreis,22
+9679,W�rzburg, Landkreis,22
+9761,Augsburg, kreisfreie Stadt,19
+9762,Kaufbeuren, kreisfreie Stadt,23
+9763,Kempten (Allg�u), kreisfreie Stadt,22
+9764,Memmingen, kreisfreie Stadt,22
+9771,Aichach-Friedberg, Landkreis,20
+9772,Augsburg, Landkreis,21
+9773,Dillingen an der Donau, Landkreis,20
+9774,G�nzburg, Landkreis,20
+9775,Neu-Ulm, Landkreis,20
+9776,Lindau (Bodensee), Landkreis,23
+9777,Ostallg�u, Landkreis,21
+9778,Unterallg�u, Landkreis,21
+9779,Donau-Ries, Landkreis,20
+9780,Oberallg�u, Landkreis,23
+10041,Regionalverband Saarbr�cken, Landkreis,23
+10042,Merzig-Wadern, Landkreis,23
+10043,Neunkirchen, Landkreis,25
+10044,Saarlouis, Landkreis,24
+10045,Saarpfalz-Kreis, Landkreis,25
+10046,Sankt Wendel, Landkreis,25
+11000,Berlin, kreisfreie Stadt,19
+12051,Brandenburg an der Havel, kreisfreie Stadt,28
+12052,Cottbus, kreisfreie Stadt,26
+12053,Frankfurt (Oder), kreisfreie Stadt,26
+12054,Potsdam, kreisfreie Stadt,20
+12060,Barnim, Landkreis,24
+12061,Dahme-Spreewald, Landkreis,24
+12062,Elbe-Elster, Landkreis,29
+12063,Havelland, Landkreis,23
+12064,M�rkisch-Oderland, Landkreis,24
+12065,Oberhavel, Landkreis,23
+12066,Oberspreewald-Lausitz, Landkreis,29
+12067,Oder-Spree, Landkreis,27
+12068,Ostprignitz-Ruppin, Landkreis,26
+12069,Potsdam-Mittelmark, Landkreis,23
+12070,Prignitz, Landkreis,29
+12071,Spree-Nei�e, Landkreis,28
+12072,Teltow-Fl�ming, Landkreis,23
+12073,Uckermark, Landkreis,28
+13003,Rostock, kreisfreie Stadt,24
+13004,Schwerin, kreisfreie Stadt,26
+13071,Mecklenburgische Seenplatte, Landkreis,26
+13072,Rostock, Landkreis,24
+13073,Vorpommern-R�gen, Landkreis,27
+13074,Nordwestmecklenburg, Landkreis,24
+13075,Vorpommern-Greifswald, Landkreis,26
+13076,Ludwigslust-Parchim, Landkreis,24
+14511,Chemnitz, kreisfreie Stadt,28
+14521,Erzgebirgskreis, Landkreis,30
+14522,Mittelsachsen, Landkreis,29
+14523,Vogtlandkreis, Landkreis,30
+14524,Zwickau, Landkreis,30
+14612,Dresden, kreisfreie Stadt,22
+14625,Bautzen, Landkreis,28
+14626,G�rlitz, Landkreis,30
+14627,Mei�en, Landkreis,28
+14628,S�chsische Schweiz-Osterzgebirge, Landkreis,28
+14713,Leipzig, kreisfreie Stadt,20
+14729,Leipzig, Landkreis,27
+14730,Nordsachsen, Landkreis,26
+15001,Dessau-Ro�lau, kreisfreie Stadt,32
+15002,Halle (Saale), kreisfreie Stadt,24
+15003,Magdeburg, kreisfreie Stadt,25
+15081,Altmarkkreis Salzwedel, Landkreis,25
+15082,Anhalt-Bitterfeld, Landkreis,28
+15083,B�rde, Landkreis,24
+15084,Burgenlandkreis, Landkreis,28
+15085,Harz, Landkreis,29
+15086,Jerichower Land, Landkreis,26
+15087,Mansfeld-S�dharz, Landkreis,30
+15088,Saalekreis, Landkreis,26
+15089,Salzlandkreis, Landkreis,28
+15090,Stendal, Landkreis,26
+15091,Wittenberg, Landkreis,29
+16051,Erfurt, kreisfreie Stadt,23
+16052,Gera, kreisfreie Stadt,30
+16053,Jena, kreisfreie Stadt,21
+16054,Suhl, kreisfreie Stadt,33
+16055,Weimar, kreisfreie Stadt,23
+16056,Eisenach, kreisfreie Stadt,26
+16061,Eichsfeld, Landkreis,24
+16062,Nordhausen, Landkreis,27
+16063,Wartburgkreis, Landkreis,26
+16064,Unstrut-Hainich-Kreis, Landkreis,26
+16065,Kyffh�userkreis, Landkreis,28
+16066,Schmalkalden-Meiningen, Landkreis,27
+16067,Gotha, Landkreis,26
+16068,S�mmerda, Landkreis,25
+16069,Hildburghausen, Landkreis,25
+16070,Ilm-Kreis, Landkreis,26
+16071,Weimarer Land, Landkreis,24
+16072,Sonneberg, Landkreis,28
+16073,Saalfeld-Rudolstadt, Landkreis,30
+16074,Saale-Holzland-Kreis, Landkreis,26
+16075,Saale-Orla-Kreis, Landkreis,27
+16076,Greiz, Landkreis,30
+16077,Altenburger Land, Landkreis,31
